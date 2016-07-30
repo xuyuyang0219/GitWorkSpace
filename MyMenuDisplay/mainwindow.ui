@@ -40,7 +40,25 @@
     <addaction name="action_Undo"/>
     <addaction name="action_Redo"/>
    </widget>
+   <widget class="QMenu" name="menu_1">
+    <property name="title">
+     <string>菜单1</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>菜单2</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menu_3">
+    <property name="title">
+     <string>菜单3</string>
+    </property>
+   </widget>
    <addaction name="menu_F"/>
+   <addaction name="menu_1"/>
+   <addaction name="menu_2"/>
+   <addaction name="menu_3"/>
   </widget>
   <widget class="QToolBar" name="mainToolBar">
    <attribute name="toolBarArea">
