@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>images/editcut.png</file>
+        <file>images/editredo.png</file>
+        <file>images/editundo.png</file>
+        <file>images/filenew.png</file>
+        <file>images/filesave.png</file>
+        <file>images/find.png</file>
+        <file>images/folder_new.png</file>
+        <file>images/go-into.png</file>
+        <file>images/NewUSB.png</file>
+        <file>images/open.png</file>
+        <file>images/openNew.png</file>
+        <file>images/undo.png</file>
+    </qresource>
+</RCC>
